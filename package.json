@@ -1,0 +1,34 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "This is a node.js command line utility that will speed up your development process by 4x.",
+  "main": "idk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idk",
+    "¯\_(ツ)_/¯",
+    "shruggie",
+    "duggie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blairanderson/idk"
+  },
+  "author": {
+    "name": "Blair Anderson",
+    "email": "blair81@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.3.0"
+  },
+  "bin": {
+    "idk": "idk.js"
+  },
+  "readmeFilename": "readme.md",
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
