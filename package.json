@@ -1,6 +1,6 @@
 {
   "name": "idk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a node.js command line utility that will speed up your development process by 4x.",
   "main": "idk.js",
   "scripts": {
