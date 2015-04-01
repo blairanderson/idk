@@ -5,7 +5,7 @@ This is a node.js command line utility that will speed up your development proce
 
 ## Design and inspiration
 
-Inspired by the late and great SlexAxton: https://twitter.com/SlexAxton/status/582763934379220992
+Inspired by the great SlexAxton: https://twitter.com/SlexAxton/status/582763934379220992
 
 **Features:**
 
