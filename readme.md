@@ -27,7 +27,10 @@ To use it while working on a hot new flavascript application, run `idk`.
 
 ### Examples
 
-
 ```bash
 idk
 ```
+
+## Tests
+
+Sorry there are no tests.
