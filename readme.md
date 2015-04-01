@@ -34,3 +34,8 @@ idk
 ## Tests
 
 Sorry there are no tests.
+
+
+## Demo
+
+![Demo](https://cloud.githubusercontent.com/assets/955736/6934646/bedb1e60-d7ec-11e4-9796-8edec8be35ce.gif)
